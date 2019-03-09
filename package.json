@@ -1,0 +1,11 @@
+{
+  "name": "eth-compiler",
+  "dependencies": {
+    "bignumber.js": "4.0.0",
+    "ethereumjs-tx": "1.2.2",
+    "ethereumjs-util": "^5.0.1",
+    "express": "^4.16.4",
+    "solc": "^0.4.25",
+    "web3": "^0.16.0"
+  }
+}
